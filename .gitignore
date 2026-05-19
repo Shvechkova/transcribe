@@ -1,0 +1,7 @@
+*.webm
+*.wav
+*.pkl
+*.progress.log
+__pycache__/
+*.pyc
+.venv/
