@@ -12,3 +12,8 @@ __pycache__/
 *.txt
 *.srt
 !requirements.txt
+*.mkv
+*.mov
+*.m4a
+*.flac
+.env
