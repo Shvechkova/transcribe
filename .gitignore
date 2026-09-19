@@ -5,3 +5,10 @@
 __pycache__/
 *.pyc
 .venv/
+*.mp4
+*.mp3
+
+# transcription outputs (meeting content, keep out of the repo)
+*.txt
+*.srt
+!requirements.txt
